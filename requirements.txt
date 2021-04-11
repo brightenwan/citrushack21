@@ -1,6 +1,0 @@
-uwsgi==2.0.19.1
-flask==1.1.2
-falcon==1.1.0
-filedepot==0.8.0
-boto3==1.17.0
-google-cloud-vision
